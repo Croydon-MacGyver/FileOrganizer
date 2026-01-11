@@ -1,8 +1,8 @@
-# 📂 高级文件整理助手 (Advanced File Organizer)
+# 📂 文件整理助手 (File Organizer)
 
 一个基于 Python 和 CustomTkinter 开发的现代化文件整理工具。支持可视化搭建整理规则，专为摄影师、视频创作者及需要整理大量文件的用户设计。
 
-!screenshots/main.png
+![主界面截图](screenshots/main.png)
 
 ## ✨ 主要功能
 
@@ -19,7 +19,7 @@
 
 | 规则编辑器 | 智能切片 |
 | :---: | :---: |
-| !screenshots/rule.png | !screenshots/rule.png |
+| ![规则截图](screenshots/rule.png) | ![规则截图](screenshots/rule.png) |
 
 ## 🚀 如何使用
 
