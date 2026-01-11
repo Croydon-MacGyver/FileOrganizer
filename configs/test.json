@@ -1,0 +1,25 @@
+{
+    "rule_name": "test",
+    "sample_file": "D:/桌面/好像没啥用/从隔壁的隔壁的隔壁盗的/JPG\\10.jpg",
+    "source_split_regex": "[_\\- ]",
+    "naming_structure": [
+        {
+            "type": "original_folder",
+            "value": null
+        },
+        {
+            "type": "folder_separator",
+            "value": null
+        },
+        {
+            "type": "source_segment",
+            "value": {
+                "index": 0
+            }
+        }
+    ],
+    "operation_mode": "move",
+    "delete_extensions": [],
+    "delete_custom_exts": [],
+    "output_preview": "预览结果: Foldername10.jpg"
+}
